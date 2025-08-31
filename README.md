@@ -38,14 +38,11 @@ Insights 360 Dashboard
 ▶️ Demo Video
 🎥 Dashboard YouTube Demo)
 
-
 ✅ Key Insights 
 
 ARPU grew +11.05% post‑5G, indicating stronger monetization per user.
 
 Total Revenue declined −0.50%, suggesting churn/usage softness despite premium pricing.
-
-City Performance:
 
 Gains: Lucknow (+1.82%), Gurgaon (+1.51%), Patna (+1.48%), Jaipur (+0.98%), Bangalore (+0.75%), Pune (+0.37%).
 
@@ -55,23 +52,11 @@ Pattern: Tier‑2/3 cities show stronger adoption; metros require retention play
 
 User Base: Unsubscribed users +23.5% → Active users −8.28% (churn risk).
 
-Plans:
+Top earnering plans: P1 (pre & post), P11 (post).
 
-Top earners: P1 (pre & post), P11 (post).
+Most affected plan: P7 (25GB Combo 3G/4G) post‑5G; discontinue or redesign as a 5G‑compatible value plan.
 
-Most affected: P7 (25GB Combo 3G/4G) post‑5G; discontinue or redesign as a 5G‑compatible value plan.
-
-Discontinued: P8, P9, P10 underperformed; short validity likely drove weak revenue & adoption.
-
-
-
-City‑wise Waterfall (contribution to total change)
-
-Plans Matrix (Revenue vs Validity; discontinued flagged)
-
-
-
-
+Discontinued: P8, P9, P10 underperformed plans; short validity likely drove weak revenue & adoption.
 
 📝 Recommendations
 
