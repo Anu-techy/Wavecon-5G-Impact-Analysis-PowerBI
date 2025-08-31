@@ -1,5 +1,4 @@
-# Wavecon Telecom Services 
-— Transformative Impact Analysis After 5G Launch in PowerBI
+# Analysis of impact after 5G in Wavecon Telecom Services 
 
 ### 📌 **Project Overview**
 
