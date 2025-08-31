@@ -2,9 +2,7 @@ Wavecon Telecom Services — Transformative Impact Analysis After 5G Launch
 
 📌 Project Overview
 
-To analyze the impact of Wavecon’s 5G launch on revenue, ARPU, plan performance, and city‑level outcomes. 
-The launch occurred in May 2022 across 15 major cities. 
-Comparisons are made between Jan–Apr (Pre‑5G) and Jun–Sep (Post‑5G).
+To analyze the impact of Wavecon’s 5G launch on revenue, ARPU, plan performance, and city‑level outcomes across 15 major cities. 
 
 🎯 Objectives
 
