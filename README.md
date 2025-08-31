@@ -12,8 +12,6 @@ Analyze city‑wise revenue performance.
 
 Assess plan performance before vs. after 5G.
 
-Recommend continuation or discontinuation of specific plans based on performance.
-
 📊 Data Overview
 
 Scope: January–September 2022 (India); May 2022 excluded (5G transition month).
@@ -33,9 +31,11 @@ Key Entities: City‑level revenue; plan‑level KPIs (validity, ARPU, subscript
 
 
 📊 Dashboard
+
 Insights 360 Dashboard
 
 ▶️ Demo Video
+
 🎥 Dashboard YouTube Demo)
 
 📊 Key Insights
@@ -52,11 +52,9 @@ Pattern: Tier-2/3 cities show stronger adoption; metros face retention pressure.
 
 User Base: Unsubscribed users +23.5% → Active users −8.28% (churn risk).
 
-Top Plans:
+Plan P1 = highest revenue pre & post-5G.
 
-P1 = highest revenue pre & post-5G.
-
-P11 = strong revenue post-5G.
+Plan P11 = strong revenue post-5G.
 
 Most Affected Plan: P7 (25GB Combo 3G/4G) lost relevance → needs discontinuation or redesign for 5G.
 
@@ -80,7 +78,9 @@ Avoid short-validity plans unless tied with micro-recharge strategies.
 Analysis by Anusha
 
 💻 GitHub: [https://github.com/Anu-techy]
+
 🎥 YouTube: [https://www.youtube.com/@DataDiveWithAnvi]
+
 🌐 LinkedIn: [https://www.linkedin.com/in/anusha-k-4ba9bb218/]
 
 
