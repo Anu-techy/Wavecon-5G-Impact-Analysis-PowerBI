@@ -45,25 +45,25 @@ Insights 360 Dashboard
 
 📊 **Key Insights**
 
-ARPU: +11.05% post-5G → stronger monetization per user.
+📊 Key Insights
 
-Total Revenue: −0.50% → churn/usage softness despite premium pricing.
+ARPU: +11.05% post-5G → stronger monetization per user
 
-Gains: Lucknow (+1.82%), Gurgaon (+1.51%), Patna (+1.48%), Jaipur (+0.98%), Bangalore (+0.75%), Pune (+0.37%).
+Total Revenue: −0.50% → churn/usage softness despite premium pricing
 
-Declines: Delhi (−2.83%), Chennai (−2.59%), Ahmedabad (−2.02%), Hyderabad (−1.29%), Kolkata (−0.37%), Chandigarh (−0.55%).
+City-wise Gains: Lucknow (+1.82%), Gurgaon (+1.51%)
 
-Pattern: Tier-2/3 cities show stronger adoption; metros face retention pressure.
+City-wise Declines:  Delhi (−2.83%), Chennai (−2.59%)
 
-User Base: Unsubscribed users +23.5% → Active users −8.28% (churn risk).
+Tier-2/3 cities show stronger adoption; metros face retention pressure
 
-Plan P1 = highest revenue pre & post-5G.
+Plan P1 = top revenue plan pre & post-5G
 
-Plan P11 = strong revenue post-5G.
+Plan P11 = strong revenue post-5G
 
-Most Affected Plan: P7 (25GB Combo 3G/4G) lost relevance → needs discontinuation or redesign for 5G.
+Plan P7 = most affected plan (25GB Combo 3G/4G) → discontinue or redesign for 5G
 
-Discontinued Plans: P8, P9, P10 underperformed (short validity → weak adoption).
+P8, P9, P10 plans discontinued → short validity, weak adoption
 
 📝 **Recommendations**
 
