@@ -1,4 +1,4 @@
-# Wavecon 5G impact Analysis in PowerBI
+# Wavecon 5G Impact Analysis in PowerBI
 
 ### 📌 **Project Overview**
 
