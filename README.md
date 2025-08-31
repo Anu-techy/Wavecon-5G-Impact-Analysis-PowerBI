@@ -1,4 +1,4 @@
-Wavecon Telecom Services — Transformative Impact Analysis After 5G Launch in PowerBI
+# Wavecon Telecom Services — Transformative Impact Analysis After 5G Launch in PowerBI
 
 📌 Project Overview
 
@@ -34,9 +34,11 @@ Key Entities: City‑level revenue; plan‑level KPIs (validity, ARPU, subscript
 
 Insights 360 Dashboard
 
+
 ▶️ Demo Video
 
 🎥 Dashboard YouTube Demo)
+
 
 📊 Key Insights
 
@@ -68,18 +70,19 @@ Provide affordable entry-level 5G plans to reduce churn and Target churn cohorts
 
 In Tier-2/3 Cities, Accelerate acquisition with localized offers & regional marketing.
 
-Expand 5G coverage aggressively to capture demand.
-
-Continue pushing high-revenue plans (P1, P11).
+Expand 5G coverage aggressively to capture demand. Continue pushing high-revenue plans (P1, P11).
 
 Avoid short-validity plans unless tied with micro-recharge strategies.
 
 👤 Author
+
 Analysis by Anusha
 
 💻 GitHub: [https://github.com/Anu-techy]
 
+
 🎥 YouTube: [https://www.youtube.com/@DataDiveWithAnvi]
+
 
 🌐 LinkedIn: [https://www.linkedin.com/in/anusha-k-4ba9bb218/]
 
