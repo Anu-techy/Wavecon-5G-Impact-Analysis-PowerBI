@@ -1,4 +1,4 @@
-Wavecon Telecom Services — Transformative Impact Analysis After 5G Launch
+Wavecon Telecom Services — Transformative Impact Analysis After 5G Launch in PowerBI
 
 📌 Project Overview
 
@@ -14,10 +14,6 @@ Assess plan performance before vs. after 5G.
 
 Recommend continuation or discontinuation of specific plans based on performance.
 
-🗂️ Repository Structure
-
-
-
 📊 Data Overview
 
 Scope: January–September 2022 (India); May 2022 excluded (5G transition month).
@@ -27,6 +23,20 @@ Pre‑5G: January–April 2022
 Post‑5G: June–September 2022
 
 Key Entities: City‑level revenue; plan‑level KPIs (validity, ARPU, subscriptions, status).
+
+🗂️ Repository Structure
+
+
+
+
+
+
+
+📊 Dashboard
+Insights 360 Dashboard
+
+▶️ Demo Video
+🎥 Dashboard YouTube Demo)
 
 
 ✅ Key Insights 
@@ -69,12 +79,14 @@ Metros: Deploy retention & value‑bundled 5G plans; target churn cohorts.
 
 Tier‑2/3: Accelerate acquisition with local offers; expand coverage/marketing.
 
+👤 Author
+Analysis by Anusha
+
+💻 GitHub: [https://github.com/Anu-techy]
+🎥 YouTube: [https://www.youtube.com/@DataDiveWithAnvi]
+🌐 LinkedIn: [https://www.linkedin.com/in/anusha-k-4ba9bb218/]
 
 
-
-
-Project: Wavecon Telecom — 5G Impact Analysis
-Slides: slides/Wavecon_5G_Impact.pptx
 
 
 
