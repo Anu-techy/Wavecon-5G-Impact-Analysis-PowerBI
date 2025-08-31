@@ -1,4 +1,4 @@
-# Analysis of impact after 5G in Wavecon Telecom Services 
+# Wavecon 5G impact Analysis in PowerBI
 
 ### 📌 **Project Overview**
 
