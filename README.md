@@ -45,21 +45,19 @@ Insights 360 Dashboard
 
 📊 **Key Insights**
 
-📊 Key Insights
-
 ARPU: +11.05% post-5G → stronger monetization per user
 
 Total Revenue: −0.50% → churn/usage softness despite premium pricing
 
-City-wise Gains: Lucknow (+1.82%), Gurgaon (+1.51%)
+**City-wise Gains**: Lucknow (+1.82%), Gurgaon (+1.51%)
 
 City-wise Declines:  Delhi (−2.83%), Chennai (−2.59%)
 
 Tier-2/3 cities show stronger adoption; metros face retention pressure
 
-Plan P1 = top revenue plan pre & post-5G
+**Plan P1** = top revenue plan pre & post-5G
 
-Plan P11 = strong revenue post-5G
+**Plan P11** = strong revenue post-5G
 
 Plan P7 = most affected plan (25GB Combo 3G/4G) → discontinue or redesign for 5G
 
