@@ -43,37 +43,37 @@ Insights 360 Dashboard
 🎥 Dashboard YouTube Demo)
 
 
-📊 **Key Insights**
+📊 ### Key Insights
 
-ARPU: +11.05% post-5G → stronger monetization per user
+- ARPU: +11.05% post-5G → stronger monetization per user
 
-Total Revenue: −0.50% → churn/usage softness despite premium pricing
+- Total Revenue: −0.50% → churn/usage softness despite premium pricing
 
-**City-wise Gains**: Lucknow (+1.82%), Gurgaon (+1.51%)
+ - **City-wise Gains**: Lucknow (+1.82%), Gurgaon (+1.51%)
 
-City-wise Declines:  Delhi (−2.83%), Chennai (−2.59%)
+ - City-wise Declines:  Delhi (−2.83%), Chennai (−2.59%)
 
-Tier-2/3 cities show stronger adoption; metros face retention pressure
+ - Tier-2/3 cities show stronger adoption; metros face retention pressure
 
-**Plan P1** = top revenue plan pre & post-5G
+ - **Plan P1** = top revenue plan pre & post-5G
 
-**Plan P11** = strong revenue post-5G
+ - **Plan P11** = strong revenue post-5G
 
-Plan P7 = most affected plan (25GB Combo 3G/4G) → discontinue or redesign for 5G
+ - Plan P7 = most affected plan (25GB Combo 3G/4G) → discontinue or redesign for 5G
 
-P8, P9, P10 plans discontinued → short validity, weak adoption
+ - P8, P9, P10 plans discontinued → short validity, weak adoption
 
 📝 **Recommendations**
 
-In Metros, Launch retention strategies (loyalty perks, bundled offers).
+ - In Metros, Launch retention strategies (loyalty perks, bundled offers).
 
-Provide affordable entry-level 5G plans to reduce churn and Target churn cohorts with win-back campaigns.
+ - Provide affordable entry-level 5G plans to reduce churn and Target churn cohorts with win-back campaigns.
 
-In Tier-2/3 Cities, Accelerate acquisition with localized offers & regional marketing.
+ - In Tier-2/3 Cities, Accelerate acquisition with localized offers & regional marketing.
 
-Expand 5G coverage aggressively to capture demand. Continue pushing high-revenue plans (P1, P11).
+ - Expand 5G coverage aggressively to capture demand. Continue pushing high-revenue plans (P1, P11).
 
-Avoid short-validity plans unless tied with micro-recharge strategies.
+ - Avoid short-validity plans unless tied with micro-recharge strategies.
 
 👤 **Author**
 
