@@ -26,10 +26,12 @@ Key Entities: City‑level revenue; plan‑level KPIs (validity, ARPU, subscript
 🗂️ **Repository Structure**
 
 
-
-
-
-
+|         File                | Description |
+|-----------------------------|-------------|
+| `dashboard screenshots`  | Main dashboard with interactive visuals |
+| `City-wise performance`  | screenshot of visual |
+| `Plans performance`  | screenshot of visual |
+| `README.md`                           | Project documentation |
 
 📊 **Dashboard**
 
