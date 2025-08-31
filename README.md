@@ -38,31 +38,43 @@ Insights 360 Dashboard
 ▶️ Demo Video
 🎥 Dashboard YouTube Demo)
 
-✅ Key Insights 
+📊 Key Insights
 
-ARPU grew +11.05% post‑5G, indicating stronger monetization per user.
+ARPU: +11.05% post-5G → stronger monetization per user.
 
-Total Revenue declined −0.50%, suggesting churn/usage softness despite premium pricing.
+Total Revenue: −0.50% → churn/usage softness despite premium pricing.
 
 Gains: Lucknow (+1.82%), Gurgaon (+1.51%), Patna (+1.48%), Jaipur (+0.98%), Bangalore (+0.75%), Pune (+0.37%).
 
 Declines: Delhi (−2.83%), Chennai (−2.59%), Ahmedabad (−2.02%), Hyderabad (−1.29%), Kolkata (−0.37%), Chandigarh (−0.55%).
 
-Pattern: Tier‑2/3 cities show stronger adoption; metros require retention plays.
+Pattern: Tier-2/3 cities show stronger adoption; metros face retention pressure.
 
 User Base: Unsubscribed users +23.5% → Active users −8.28% (churn risk).
 
-Top earnering plans: P1 (pre & post), P11 (post).
+Top Plans:
 
-Most affected plan: P7 (25GB Combo 3G/4G) post‑5G; discontinue or redesign as a 5G‑compatible value plan.
+P1 = highest revenue pre & post-5G.
 
-Discontinued: P8, P9, P10 underperformed plans; short validity likely drove weak revenue & adoption.
+P11 = strong revenue post-5G.
+
+Most Affected Plan: P7 (25GB Combo 3G/4G) lost relevance → needs discontinuation or redesign for 5G.
+
+Discontinued Plans: P8, P9, P10 underperformed (short validity → weak adoption).
 
 📝 Recommendations
 
-Metros: Deploy retention & value‑bundled 5G plans; target churn cohorts.
+In Metros, Launch retention strategies (loyalty perks, bundled offers).
 
-Tier‑2/3: Accelerate acquisition with local offers; expand coverage/marketing.
+Provide affordable entry-level 5G plans to reduce churn and Target churn cohorts with win-back campaigns.
+
+In Tier-2/3 Cities, Accelerate acquisition with localized offers & regional marketing.
+
+Expand 5G coverage aggressively to capture demand.
+
+Continue pushing high-revenue plans (P1, P11).
+
+Avoid short-validity plans unless tied with micro-recharge strategies.
 
 👤 Author
 Analysis by Anusha
