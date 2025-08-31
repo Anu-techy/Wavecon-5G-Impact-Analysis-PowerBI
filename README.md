@@ -1,19 +1,19 @@
 # Wavecon Telecom Services 
 — Transformative Impact Analysis After 5G Launch in PowerBI
 
-📌 **Project Overview**
+### 📌 **Project Overview**
 
 To analyze the impact of Wavecon’s 5G launch on revenue, ARPU, plan performance, and city‑level outcomes across 15 major cities. 
 
-🎯 **Objectives**
+### 🎯 **Objectives**
 
-Evaluate the impact of the 5G launch on revenue and KPIs.
+ - Evaluate the impact of the 5G launch on revenue and KPIs.
 
-Analyze city‑wise revenue performance.
+ - Analyze city‑wise revenue performance.
 
-Assess plan performance before vs. after 5G.
+ - Assess plan performance before vs. after 5G.
 
-📊 **Data Overview**
+### 📊 **Data Overview**
 
 Scope: January–September 2022 (India); May 2022 excluded (5G transition month).
 
@@ -23,8 +23,7 @@ Post‑5G: June–September 2022
 
 Key Entities: City‑level revenue; plan‑level KPIs (validity, ARPU, subscriptions, status).
 
-🗂️ **Repository Structure**
-
+### 🗂️ **Repository Structure**
 
 |         File                | Description |
 |-----------------------------|-------------|
@@ -33,37 +32,35 @@ Key Entities: City‑level revenue; plan‑level KPIs (validity, ARPU, subscript
 | `Plans performance`  | screenshot of visual |
 | `README.md`                           | Project documentation |
 
-📊 **Dashboard**
+### 📊 **Dashboard**
 
 Insights 360 Dashboard
 
-
-▶️ **Demo Video**
+### ▶️ **Demo Video**
 
 🎥 Dashboard YouTube Demo)
 
-
-📊 ### Key Insights
+### 📊 Key Insights
 
 - ARPU: +11.05% post-5G → stronger monetization per user
 
 - Total Revenue: −0.50% → churn/usage softness despite premium pricing
 
- - **City-wise Gains**: Lucknow (+1.82%), Gurgaon (+1.51%)
+ - City-wise Gains: Lucknow (+1.82%), Gurgaon (+1.51%)
 
  - City-wise Declines:  Delhi (−2.83%), Chennai (−2.59%)
 
  - Tier-2/3 cities show stronger adoption; metros face retention pressure
 
- - **Plan P1** = top revenue plan pre & post-5G
+ - Plan P1 = top revenue plan pre & post-5G
 
- - **Plan P11** = strong revenue post-5G
+ - Plan P11 = strong revenue post-5G
 
  - Plan P7 = most affected plan (25GB Combo 3G/4G) → discontinue or redesign for 5G
 
  - P8, P9, P10 plans discontinued → short validity, weak adoption
 
-📝 **Recommendations**
+### 📝 **Recommendations**
 
  - In Metros, Launch retention strategies (loyalty perks, bundled offers).
 
@@ -75,7 +72,7 @@ Insights 360 Dashboard
 
  - Avoid short-validity plans unless tied with micro-recharge strategies.
 
-👤 **Author**
+### 👤 **Author**
 
 Analysis by Anusha
 
