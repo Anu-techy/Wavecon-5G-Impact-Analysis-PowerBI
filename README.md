@@ -33,7 +33,7 @@ Key Entities: City‑level revenue; plan‑level KPIs (validity, ARPU, subscript
 
 ### 📊 **Dashboard**
 
-Insights 360 Dashboard
+[Wavecon Dashboard](https://app.powerbi.com/groups/me/reports/0fb6346f-2710-4405-86a4-44b23b1c4a34/ReportSection16b73cde20cf3ed17b51?experience=power-bi)
 
 ### ▶️ **Demo Video**
 
