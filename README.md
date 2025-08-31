@@ -1,10 +1,11 @@
-# Wavecon Telecom Services — Transformative Impact Analysis After 5G Launch in PowerBI
+# Wavecon Telecom Services 
+— Transformative Impact Analysis After 5G Launch in PowerBI
 
-📌 Project Overview
+📌 **Project Overview**
 
 To analyze the impact of Wavecon’s 5G launch on revenue, ARPU, plan performance, and city‑level outcomes across 15 major cities. 
 
-🎯 Objectives
+🎯 **Objectives**
 
 Evaluate the impact of the 5G launch on revenue and KPIs.
 
@@ -12,7 +13,7 @@ Analyze city‑wise revenue performance.
 
 Assess plan performance before vs. after 5G.
 
-📊 Data Overview
+📊 **Data Overview**
 
 Scope: January–September 2022 (India); May 2022 excluded (5G transition month).
 
@@ -22,7 +23,7 @@ Post‑5G: June–September 2022
 
 Key Entities: City‑level revenue; plan‑level KPIs (validity, ARPU, subscriptions, status).
 
-🗂️ Repository Structure
+🗂️ **Repository Structure**
 
 
 
@@ -30,17 +31,17 @@ Key Entities: City‑level revenue; plan‑level KPIs (validity, ARPU, subscript
 
 
 
-📊 Dashboard
+📊 **Dashboard**
 
 Insights 360 Dashboard
 
 
-▶️ Demo Video
+▶️ **Demo Video**
 
 🎥 Dashboard YouTube Demo)
 
 
-📊 Key Insights
+📊 **Key Insights**
 
 ARPU: +11.05% post-5G → stronger monetization per user.
 
@@ -62,7 +63,7 @@ Most Affected Plan: P7 (25GB Combo 3G/4G) lost relevance → needs discontinuati
 
 Discontinued Plans: P8, P9, P10 underperformed (short validity → weak adoption).
 
-📝 Recommendations
+📝 **Recommendations**
 
 In Metros, Launch retention strategies (loyalty perks, bundled offers).
 
@@ -74,7 +75,7 @@ Expand 5G coverage aggressively to capture demand. Continue pushing high-revenue
 
 Avoid short-validity plans unless tied with micro-recharge strategies.
 
-👤 Author
+👤 **Author**
 
 Analysis by Anusha
 
