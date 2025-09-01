@@ -39,7 +39,7 @@ market share metrics to benchmark Wavecon’s performance against competitors.
 
 ### ▶️ **Demo Video**
 
-🎥 Dashboard YouTube Demo)
+🎥 [Wavecon Video Walkthrough](https://youtu.be/osCPWr3aIjg)
 
 ### 📊 Key Insights
 
