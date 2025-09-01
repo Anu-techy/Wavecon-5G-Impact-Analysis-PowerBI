@@ -20,7 +20,9 @@ Pre‑5G: January–April 2022
 
 Post‑5G: June–September 2022
 
-Key Entities: City‑level revenue; plan‑level KPIs (validity, ARPU, subscriptions, status).
+The dataset included city-level and plan-level KPIs such as Revenue, ARPU, TAU, TuSU along with 
+
+market share metrics to benchmark Wavecon’s performance against competitors.
 
 ### 🗂️ **Repository Structure**
 
